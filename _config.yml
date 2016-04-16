@@ -1,7 +1,7 @@
 name: Kay.B.Imagery
 favicon: null
-layout_spectrum: 0.5217261912766844
-typography_spectrum: 0.574232303770259
+layout_spectrum: 0.91039
+typography_spectrum: 0.11269
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.30759518360719085
-  lightness: 0.9456399707123637
-  saturation: 0.8464276490267366
-  rhythmicContrast: 0.2179466295056045
+    - '#2e3a00'
+    - '#b1b1a7'
+    - '#82804f'
+    - '#060400'
+    - '#f0ab51'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
