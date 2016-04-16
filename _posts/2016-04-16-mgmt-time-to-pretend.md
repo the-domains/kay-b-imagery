@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=B9dSYgd5Elk'
+inLanguage: null
+starred: false
+keywords: []
+description: "MGMT's official music video for 'Time To Pretend'. Click to listen to MGMT on Spotify: http://smarturl.it/MGMTSpot?IQid=MGMTP As Featured on Oracular Spectacular. Click to buy the track or album via iTunes: http://smarturl.it/MGMTOSiTunes?IQid=MGMTP Google Play: http://smarturl.it/MGMTPPlay?IQid=MGMTP Amazon: http://smarturl.it/MGMTOSAm?IQid=MGMTP More From MGMT Your Life Is A Lie: https://youtu.be/Cye-1RP5jso Cool Song No."
+datePublished: '2016-04-16T18:59:28.145Z'
+dateModified: '2016-04-16T18:59:27.110Z'
 author:
   - name: MGMTVEVO
     url: 'https://www.youtube.com/user/MGMTVEVO'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "MGMT's official music video for 'Time To Pretend'. Click to listen to MGMT on Spotify: http://smarturl.it/MGMTSpot?IQid=MGMTP As Featured on Oracular Spectacular. Click to buy the track or album via iTunes: http://smarturl.it/MGMTOSiTunes?IQid=MGMTP Google Play: http://smarturl.it/MGMTPPlay?IQid=MGMTP Amazon: http://smarturl.it/MGMTOSAm?IQid=MGMTP More From MGMT Your Life Is A Lie: https://youtu.be/Cye-1RP5jso Cool Song No."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=B9dSYgd5Elk'
 title: MGMT - Time To Pretend
-datePublished: '2016-04-16T18:58:51.458Z'
-dateModified: '2016-04-16T18:58:18.122Z'
 sourcePath: _posts/2016-04-16-mgmt-time-to-pretend.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
