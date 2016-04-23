@@ -1,5 +1,8 @@
+name: Kay.B.Imagery
+favicon: null
+layout_spectrum: 0.1899642
+typography_spectrum: 0.73212
 title: This Life
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.5
-  lightness: 0.6379929
   brandColors:
     - '#2e3a00'
     - '#b1b1a7'
     - '#82804f'
     - '#060400'
     - '#f0ab51'
-  rhythmicContrast: 0.1397849
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Kay.B.Imagery
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.73212
-layout_spectrum: 0.1899642
+  brandStrength: 0.125
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0.25
+purpose: []
